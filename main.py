@@ -8,6 +8,8 @@ def Division(a,b):
     return a/b 
 def Modulus(a,b):
     return a%b 
+def Power(a,b):
+    return a**b 
 def PrintTest():
     return "Hello"
 
